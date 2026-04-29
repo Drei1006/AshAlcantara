@@ -190,8 +190,8 @@ const Portfolio = () => {
           ashalcntra@gmail.com
         </a>
         <div className="mt-16 flex gap-10 text-xs uppercase tracking-widest-xl">
-          <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">Instagram</a>
-          <a href="#" className="text-muted-foreground hover:text-foreground transition-colors">Behance</a>
+          <a href="https://www.instagram.com/ashalcntraa?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" className="text-muted-foreground hover:text-foreground transition-colors">Instagram</a>
+          <a href="https://www.linkedin.com/in/hoewell-ashley-alcantara-051483402/" className="text-muted-foreground hover:text-foreground transition-colors">LinkedIn</a>
         </div>
       </section>
 
