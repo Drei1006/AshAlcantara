@@ -37,9 +37,9 @@ const collections: Collection[] = [
     eyebrow: "As Secretary of Publications",
     title: "DLSL Student Government",
     items: [
-      { src: dlsl1, title: "",     meta: "Commemorative — 2021" },
-      { src: dlsl2, title: "",    meta: "Commemorative — 2021" },
-      { src: dlsl3, title: "", meta: "Campaign — 2021" },
+      { src: dlsl1, title: "",     meta: "" },
+      { src: dlsl2, title: "",    meta: "" },
+      { src: dlsl3, title: "", meta: "" },
     ],
   },
   {
@@ -47,10 +47,10 @@ const collections: Collection[] = [
     eyebrow: "Through the lens",
     title: "Photography",
     items: [
-      { src: photo1, title: "",  meta: "Sport — 2023" },
-      { src: photo2, title: "",       meta: "Still Life — 2023" },
-      { src: photo3, title: "",     meta: "Library — 2022" },
-      { src: photo4, title: "",        meta: "Low Light — 2023" },
+      { src: photo1, title: "",  meta: "" },
+      { src: photo2, title: "",       meta: "" },
+      { src: photo3, title: "",     meta: "" },
+      { src: photo4, title: "",        meta: "" },
     ],
   },
 ];
@@ -184,10 +184,10 @@ const Portfolio = () => {
           Let's make something <em className="italic">quiet</em> &amp; intentional.
         </h2>
         <a
-          href="mailto:ashalcntra@gmail.com"
+          href="mailto:h.ashalcntra@gmail.com"
           className="group mt-12 inline-block font-serif italic text-2xl md:text-3xl border-b border-foreground/30 pb-1 hover:border-foreground transition-colors"
         >
-          ashalcntra@gmail.com
+          h.ashalcntra@gmail.com
         </a>
         <div className="mt-16 flex gap-10 text-xs uppercase tracking-widest-xl">
           <a href="https://www.instagram.com/ashalcntraa/" className="text-muted-foreground hover:text-foreground transition-colors">Instagram</a>
