@@ -37,9 +37,9 @@ const collections: Collection[] = [
     eyebrow: "As Secretary of Publications",
     title: "DLSL Student Government",
     items: [
-      { src: dlsl1, title: "",     meta: "Commemorative — 2021" },
-      { src: dlsl2, title: "",    meta: "Commemorative — 2021" },
-      { src: dlsl3, title: "", meta: "Campaign — 2021" },
+      { src: dlsl1, title: "",     meta: "" },
+      { src: dlsl2, title: "",    meta: "" },
+      { src: dlsl3, title: "", meta: "" },
     ],
   },
   {
@@ -47,10 +47,10 @@ const collections: Collection[] = [
     eyebrow: "Through the lens",
     title: "Photography",
     items: [
-      { src: photo1, title: "",  meta: "Sport — 2023" },
-      { src: photo2, title: "",       meta: "Still Life — 2023" },
-      { src: photo3, title: "",     meta: "Library — 2022" },
-      { src: photo4, title: "",        meta: "Low Light — 2023" },
+      { src: photo1, title: "",  meta: "" },
+      { src: photo2, title: "",       meta: "" },
+      { src: photo3, title: "",     meta: "" },
+      { src: photo4, title: "",        meta: "" },
     ],
   },
 ];
