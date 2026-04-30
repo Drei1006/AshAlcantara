@@ -14,6 +14,12 @@ import photo1 from "@/assets/photo-1.jpg";
 import photo2 from "@/assets/photo-2.jpg";
 import photo3 from "@/assets/photo-3.jpg";
 import photo4 from "@/assets/photo-4.jpg";
+import xc1 from "@/assets/xc-1.jpg";
+import xc2 from "@/assets/xc-2.jpg";
+import xc3 from "@/assets/xc-3.jpg";
+import xc4 from "@/assets/xc-4.jpg";
+import xc5 from "@/assets/xc-5.jpg";
+import xc6 from "@/assets/xc-6.jpg";
 
 type Work = { src: string; title: string; meta: string };
 type Collection = { id: string; eyebrow: string; title: string; items: Work[] };
@@ -57,7 +63,6 @@ const collections: Collection[] = [
     id: "graphics-design",
     eyebrow: "XCoffee",
     title: "Graphics Design",
-    // Placeholder images for now. Replace `work1..work4` with your graphic design assets.
     items: [
       { src: xc1, title: "", meta: "" },
       { src: xc2, title: "", meta: "" },
