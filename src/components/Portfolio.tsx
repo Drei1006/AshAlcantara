@@ -62,7 +62,7 @@ const collections: Collection[] = [
   {
     id: "graphics-design",
     eyebrow: "XCoffee",
-    title: "Graphics Design",
+    title: "Graphic Design",
     items: [
       { src: xc1, title: "", meta: "" },
       { src: xc2, title: "", meta: "" },
