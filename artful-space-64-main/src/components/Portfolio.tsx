@@ -53,6 +53,20 @@ const collections: Collection[] = [
       { src: photo4, title: "",        meta: "" },
     ],
   },
+  {
+    id: "graphics-design",
+    eyebrow: "XCoffee",
+    title: "Graphics Design",
+    // Placeholder images for now. Replace `work1..work4` with your graphic design assets.
+    items: [
+      { src: xc1, title: "", meta: "" },
+      { src: xc2, title: "", meta: "" },
+      { src: xc3, title: "", meta: "" },
+      { src: xc4, title: "", meta: "" },
+      { src: xc5, title: "", meta: "" },
+      { src: xc6, title: "", meta: "" },
+    ],
+  },
 ];
 
 const Portfolio = () => {
